@@ -1,4 +1,4 @@
-experimenting with displaying 60 music videos in a 3d space
+experimenting with displaying 3-channels in 3d space
 
 - to run local: `yarn start`
 - to build: `yarn build`
